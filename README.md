@@ -4,8 +4,8 @@
 
 ### 2021/11/13
 
-* [Bubble の基本](./docs/Bubble1/Bubble1-jp.md){:target="_blank"}
-* [Bubble Basics](./docs/Bubble1/Bubble1-en.md){:target="_blank"}
+* [Bubble の基本](./docs/Bubble1/Bubble1-jp.pdf){:target="_blank"}
+* [Bubble Basics](./docs/Bubble1/Bubble1-en.pdf){:target="_blank"}
 
 
 ## 参考リンク集 / Reference Links
