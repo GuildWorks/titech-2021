@@ -1704,6 +1704,18 @@ Yeah, it doesn't come. Yay
 
 ---
 
+#### <Advanced>
+
+## Exercise
+
+Let's create a function that allows the advisor to approach the owner, or the owner to the advisor.
+
+--Example: You can send advice to the owner
+--Example: You can place an advertisement
+--Example: You can consult with an advisor, etc.
+
+---
+
 ### Today's review
 
 ---
